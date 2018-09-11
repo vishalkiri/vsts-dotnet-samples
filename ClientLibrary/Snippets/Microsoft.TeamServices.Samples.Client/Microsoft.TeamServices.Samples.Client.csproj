@@ -177,6 +177,10 @@
     <Compile Include="Security\TokenHelpers.cs" />
     <Compile Include="Security\SecurityNamespacesSample.cs" />
     <Compile Include="Hooks\SubscriptionsSample.cs" />
+    <Compile Include="Test\TestConfigurationSample.cs" />
+    <Compile Include="Test\TestSuiteByCaseSample.cs" />
+    <Compile Include="Test\TestSuiteSample.cs" />
+    <Compile Include="Test\TestVariableSample.cs" />
     <Compile Include="Tfvc\ItemsSample.cs" />
     <Compile Include="Tfvc\ChangesetChangesSample.cs" />
     <Compile Include="Tfvc\BranchesSample.cs" />
